@@ -49,6 +49,3 @@ Sorted Array: 9 12 27 31 38
 - STL Vector
 - Recursion
 - Divide and Conquer
-
-## Author
-A Sreeram
